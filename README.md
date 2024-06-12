@@ -5,8 +5,7 @@
 
 - ☘️ My goal is to be a **Full-Stack web developer**
 
-- 💻 I’m currently learning **Front-end development** 💻
-
+- 💻 I’m currently learning **Front-end development** 
 - 📫 How to reach me **alialzayer098@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
