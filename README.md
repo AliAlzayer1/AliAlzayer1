@@ -1,3 +1,5 @@
+<img src="https://media.licdn.com/dms/image/v2/D4D12AQEZtPCuttD_iQ/article-cover_image-shrink_423_752/article-cover_image-shrink_423_752/0/1697453573297?e=1730937600&amp;v=beta&amp;t=VRxEt8oAB5i7qTJnwpxVMz4QllkPkybPD15Zdq7rYb4" loading="lazy" alt="GIF Credit- Newus" id="ember29" class="reader-cover-image__img evi-image lazy-image ember-view">
+
 
 <h1 align="center">Hey 👋, I'm Ali Alzayer</h1>
 <h3 align="center">A motivated web developer</h3>
@@ -5,7 +7,7 @@
 
 - ☘️ My goal is to be a **Full-Stack web developer**
 
-- 💻 I’m currently learning **Front-end development** 
+- 💻 I’m currently learning **Back-end development** 
 - 📫 How to reach me **alialzayer098@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
