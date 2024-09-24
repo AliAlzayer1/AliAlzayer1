@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D4D12AQEZtPCuttD_iQ/article-cover_image-shrink_423_752/article-cover_image-shrink_423_752/0/1697453573297?e=1730937600&amp;v=beta&amp;t=VRxEt8oAB5i7qTJnwpxVMz4QllkPkybPD15Zdq7rYb4" loading="lazy" alt="GIF Credit- Newus" align="center" height="200" weight="100%" id="ember29" class="reader-cover-image__img evi-image lazy-image ember-view">
+<img src="https://media.licdn.com/dms/image/v2/D4D12AQEZtPCuttD_iQ/article-cover_image-shrink_423_752/article-cover_image-shrink_423_752/0/1697453573297?e=1730937600&amp;v=beta&amp;t=VRxEt8oAB5i7qTJnwpxVMz4QllkPkybPD15Zdq7rYb4" loading="lazy" alt="GIF Credit- Newus" align="center" height="200" weight="200" id="ember29" class="reader-cover-image__img evi-image lazy-image ember-view">
 
 
 <h1 align="center">Hey 👋, I'm Ali Alzayer</h1>
